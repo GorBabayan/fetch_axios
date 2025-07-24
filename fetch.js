@@ -13,7 +13,7 @@ async function fetchUsers() {
     }
 
     console.log("nice nice nice nice");
-    console.log("pretty good");
+    console.log("pretty good bomba");
 
 }
 
