@@ -12,7 +12,9 @@ async function fetchUsers() {
         console.error(err);
     }
 
-    console.log("nice");
+    console.log("nice nice nice nice");
+    console.log("pretty good bomba");
+
 }
 
 fetchUsers();
