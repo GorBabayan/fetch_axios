@@ -1,5 +1,3 @@
 initial content
-HEAD
 lava sax
 pretty good
- parent of fede125 (updated)
